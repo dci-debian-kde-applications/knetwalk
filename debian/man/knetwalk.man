@@ -1,0 +1,37 @@
+.TH KNETWALK 6
+.SH NAME
+knetwalk \- A game for system administrators
+.SH SYNOPSIS
+.B knetwalk
+.I [Qt-options] [KDE-options] [options]
+.SH DESCRIPTION
+\fBKNetwalk\fP presents the player with a rectangular grid containing
+a server, several clients, and pieces of wire.  The object of the game
+is to rotate these elements until every client is connected to the
+server, and no wires are left unconnected.  Optionally, you can try to
+get a high score by minimizing the number of rotations needed.
+
+Left clicking on a square rotates it counterclockwise, while right
+clicking rotates it clockwise.  Middle clicking on a square marks the
+square with a blue background and prevents you from rotating it unless
+you middle click again to unmark it; this can be very useful for marking
+squares which you know are in the correct orientation.
+.SH OPTIONS
+.TP
+.B \-\-Easy
+Start with Easy difficulty level
+.TP
+.B \-\-Medium
+Start with Medium difficulty level
+.TP
+.B \-\-Hard
+Start with Hard difficulty level
+.TP
+.B \-\-VeryHard
+Start with Very Hard difficulty level
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/knetwalk
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/knetwalk').
