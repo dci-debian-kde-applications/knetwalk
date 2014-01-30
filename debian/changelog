@@ -1,6 +1,7 @@
 knetwalk (4:4.11.3-2) UNRELEASED; urgency=medium
 
   * Add autopkgtests.
+  * Bump Standards-Version to 3.9.5, no changes needed.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 30 Jan 2014 14:18:56 +0100
 
