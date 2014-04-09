@@ -1,10 +1,10 @@
-knetwalk (4:4.12.4-1) UNRELEASED; urgency=medium
+knetwalk (4:4.12.4-1~) UNRELEASED; urgency=medium
 
   * New upstream release.
   * Add kde-games-core-declarative dependency. Thanks to Erbureth.
     (Closes: #743207)
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 31 Mar 2014 22:45:25 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Apr 2014 17:05:51 +0200
 
 knetwalk (4:4.12.2-1) experimental; urgency=medium
 
