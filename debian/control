@@ -1,7 +1,7 @@
 Source: knetwalk
 Section: games
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Daniel Schepler <schepler@debian.org>,
            Sune Vuorela <sune@debian.org>,
            Fathi Boudra <fabo@debian.org>,
@@ -19,13 +19,13 @@ Build-Depends: cmake,
 Standards-Version: 3.9.5
 XS-Testsuite: autopkgtest
 Homepage: http://games.kde.org/
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/knetwalk.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/knetwalk.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-applications/knetwalk.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/knetwalk.git
 
 Package: knetwalk
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}, kde-games-core-declarative
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: wire puzzle game
  KNetwalk is a puzzle game where the player arranges sections of wire to
  connect all the computers on the board.
