@@ -1,10 +1,10 @@
-knetwalk (4:15.08.0-1~) UNRELEASED; urgency=medium
+knetwalk (4:15.08.0-1) unstable; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.04.1).
   * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 22:15:02 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 23:49:49 +0200
 
 knetwalk (4:15.08.0-0ubuntu1) wily; urgency=medium
 
