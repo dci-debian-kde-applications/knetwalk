@@ -5,58 +5,20 @@ Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2004-2005, Andi Peredri <andi@ukr.net>
+Copyright: 2013, Albert Astals Cid <aacid@kde.org>
+           2004-2005, Andi Peredri <andi@ukr.net>
+           2013, Ashwin Rajeev <ashwin_rajeev@hotmail.com>
+           2010, Brian Croom <brian.s.croom@gmail.com>
            2007-2008, Fela Winkelmolen <fela.kde@gmail.com>
+           1989-1991, Free Software Foundation, Inc
+           2007, Simon Hürlimann <simon.huerlimann@huerlisi.ch>
+           2005, Thomas Nagy <tnagyemail-mail@yahoo.fr>
 License: GPL-2+
 
 Files: doc/*
-Copyright: 2007, Fela Winkelmolen <fela.kde@gmail.com>
+Copyright: 2004-2007, Andi Peredri, Thomas Nagy and Fela Winkelmolen <fela.kde@gmail.com>
+           2007, Fela Winkelmolen <fela.kde@gmail.com>
 License: GFDL-1.2+
-
-Files: src/abstractgrid.h
-Copyright: 2007-2008, Fela Winkelmolen <fela.kde@gmail.com>
-           2010, Brian Croom <brian.s.croom@gmail.com>
-License: GPL-2+
-
-Files: src/fielditem.cpp
-       src/fielditem.h
-       src/scene.cpp
-       src/scene.h
-       src/view.cpp
-       src/view.h
-Copyright: 2010, Brian Croom <brian.s.croom@gmail.com>
-License: GPL-2+
-
-Files: src/globals.h
-Copyright: 2005, Thomas Nagy <tnagyemail-mail@yahoo.fr>
-           2007-2008, Fela Winkelmolen <fela.kde@gmail.com>
-License: GPL-2+
-
-Files: src/cell.cpp
-       src/cell.h
-Copyright: 2010, Brian Croom <brian.s.croom@gmail.com>
-           2004-2005, Andi Peredri <andi@ukr.net>
-           2007-2008, Fela Winkelmolen <fela.kde@gmail.com>
-License: GPL-2+
-
-Files: src/main.cpp
-Copyright: 2004-2005, Andi Peredri <andi@ukr.net>
-           2005, Thomas Nagy <tnagyemail-mail@yahoo.fr>
-           2007-2008, Fela Winkelmolen <fela.kde@gmail.com>
-License: GPL-2+
-
-Files: src/mainwindow.cpp
-Copyright: 2004-2005, Andi Peredri <andi@ukr.net>
-           2007, Simon Hürlimann <simon.huerlimann@huerlisi.ch>
-           2007-2008, Fela Winkelmolen <fela.kde@gmail.com>
-License: GPL-2+
-
-Files: src/mainwindow.h
-Copyright: 2004-2005, Andi Peredri <andi@ukr.net>
-           2007, Simon Hürlimann <simon.huerlimann@huerlisi.ch>
-           2007-2008, Fela Winkelmolen <fela.kde@gmail.com>
-           2010, Brian Croom <brian.s.croom@gmail.com>
-License: GPL-2+
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>

@@ -1,3 +1,10 @@
+knetwalk (4:15.12.1-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+  * New upstream release (15.12.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:24:02 +0100
+
 knetwalk (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
@@ -16,6 +23,14 @@ knetwalk (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:11:08 +0100
+
+knetwalk (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 23:49:49 +0200
 
 knetwalk (4:15.08.0-0ubuntu1) wily; urgency=medium
 
