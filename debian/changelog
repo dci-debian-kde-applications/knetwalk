@@ -1,3 +1,11 @@
+knetwalk (4:15.12.1-2~1.gbp6738af) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @6738afdbe64818e3fe22dd47c4c28358c86fda84 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:22:05 +0200
+
 knetwalk (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
