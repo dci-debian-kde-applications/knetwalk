@@ -1,10 +1,11 @@
-knetwalk (4:15.12.1-2~1.gbp6738af) UNRELEASED; urgency=medium
+knetwalk (4:16.04.0-1~1.gbp43c977) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @6738afdbe64818e3fe22dd47c4c28358c86fda84 **
+  ** SNAPSHOT build @43c9775ef27ae71ea58ff564a7b31ab5eb11a1bc **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:22:05 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:21:15 +0200
 
 knetwalk (4:15.12.1-1) experimental; urgency=medium
 
