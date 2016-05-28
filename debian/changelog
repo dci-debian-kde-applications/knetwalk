@@ -1,10 +1,6 @@
-knetwalk (4:16.04.0-1~2.gbp57605c) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @57605c1df04003afdc6ba60fd0858071cd1a4100 **
+knetwalk (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @43c9775ef27ae71ea58ff564a7b31ab5eb11a1bc **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -13,7 +9,7 @@ knetwalk (4:16.04.0-1~2.gbp57605c) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:21:19 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:38:53 +0200
 
 knetwalk (4:15.12.1-1) experimental; urgency=medium
 
