@@ -1,3 +1,10 @@
+knetwalk (4:16.08.0-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 19 Aug 2016 07:39:54 +0200
+
 knetwalk (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
