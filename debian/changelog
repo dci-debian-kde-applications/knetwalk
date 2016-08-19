@@ -1,4 +1,6 @@
-knetwalk (4:16.08.0-0r1) UNRELEASED; urgency=medium
+knetwalk (4:16.08.0-1~1.gbp08a6fe) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @08a6fe83c0fe3fa6bc84b9999a2ba09bf9814ac8 **
 
   [ Pino Toscano ]
   * New upstream release.
