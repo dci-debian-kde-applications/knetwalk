@@ -41,7 +41,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/knetwalk.git
 
 Package: knetwalk
 Architecture: any
-Depends: kde-games-core-declarative, ${misc:Depends}, ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends},
+         qml-module-org-kde-games-core,
 Recommends: khelpcenter
 Description: wire puzzle game
  KNetwalk is a puzzle game where the player arranges sections of wire to

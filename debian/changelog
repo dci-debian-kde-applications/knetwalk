@@ -3,6 +3,8 @@ knetwalk (4:16.08.0-0r1) UNRELEASED; urgency=medium
   [ Pino Toscano ]
   * New upstream release.
   * Change the watch file to look for stable releases only.
+  * Switch kde-games-core-declarative dependency (for kdegames v4) to
+    qml-module-org-kde-games-core (for kf5). (Closes: #802608)
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 19 Aug 2016 07:39:54 +0200
 
