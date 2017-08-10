@@ -47,6 +47,8 @@ Depends: kde-games-core-declarative,
          ${misc:Depends},
          ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: wire puzzle game
  KNetwalk is a puzzle game where the player arranges sections of wire to
  connect all the computers on the board.
