@@ -38,7 +38,7 @@ parts:
         plugin: cmake
         build-packages:
         - kdoctools-dev
-        - libkdegames-dev
+        - libkf5kdegames-dev
         source: https://download.kde.org/stable/applications/17.08.1/src/knetwalk-17.08.1.tar.xz
         configflags:
         - "-DKDE_INSTALL_USE_QT_SYS_PATHS=ON"
